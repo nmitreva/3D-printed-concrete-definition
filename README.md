@@ -22,9 +22,13 @@ pip install plotly
 To run the application, follow these steps:
 
 a. Clone the repository or download the .py file containing the application code.
+
 b. Open a terminal and navigate to the folder containing the script.
+
 c. Launch the application with: python app.py .
+
 d. After running the script, a local web page will open in your default browser (usually at http://127.0.0.1:8050/).
+
 e. Use the interactive sliders to modify:
    - The number of triangles in the structure
    - The thickness of the concrete layers
