@@ -1,5 +1,3 @@
-# 3D-printed-concrete-definition
-
 # 3D-Printed Concrete Wall Visualizer
 
 ## 📌 Description
@@ -16,11 +14,11 @@ Before running the application, ensure you have Python 3.8 or later installed. T
 pip install dash
 pip install numpy
 pip install plotly
+```
 
 
 
-
-Usage Instructions
+## Usage Instructions
 To run the application, follow these steps:
 
 a. Clone the repository or download the .py file containing the application code.
@@ -33,7 +31,7 @@ e. Use the interactive sliders to modify:
 The geometry will update in real-time based on your inputs, and the updated width of the wall is displayed dynamically.
 
 
-Exemplary Usage
+## Exemplary Usage
 Imagine you want to explore the impact of using 8 triangles and a thickness of 0.05 m:
    - Open the web interface
    - Set Number of Triangles = 8
