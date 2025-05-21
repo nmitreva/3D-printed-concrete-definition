@@ -17,8 +17,10 @@ pip install dash
 pip install numpy
 pip install plotly
 
-## Usage Instructions
 
+
+
+Usage Instructions
 To run the application, follow these steps:
 
 a. Clone the repository or download the .py file containing the application code.
@@ -30,7 +32,8 @@ e. Use the interactive sliders to modify:
    - The thickness of the concrete layers
 The geometry will update in real-time based on your inputs, and the updated width of the wall is displayed dynamically.
 
-## Exemplary Usage
+
+Exemplary Usage
 Imagine you want to explore the impact of using 8 triangles and a thickness of 0.05 m:
    - Open the web interface
    - Set Number of Triangles = 8
@@ -43,5 +46,5 @@ iii. Offer a realistic representation of how the printed geometry would look in 
 
 This tool is particularly useful in the early design phase to visually evaluate material layout strategies, with the ultimate goal of reducing carbon emissions while maintaining structural efficiency.
 
-## Functional Unit
+Functional Unit
 The reference unit used for all visualizations and calculations is 1 m² of 3D-printed wall. This standardized measure allows for direct comparison between different configurations and supports further environmental analyses like Life Cycle Assessment (LCA).
